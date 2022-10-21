@@ -276,3 +276,9 @@ A 1-4 player dice game played locally.
 [c22]: https://github.com/pjohannessen/yatzy
 [t22]: https://www.lonesomecrowdedweb.com/blog/yatzy-boardgameio/
 [b22]: https://img.shields.io/github/stars/pjohannessen/yatzy?label=%E2%98%85&logo=github
+
+#### [2048 Game][p23]
+&nbsp;&nbsp;
+Join tiles until you reach 2048 in online version of the classic game. Coded from scratch using boardgame.io, React and GSAP.
+
+[p23]: https://2048-online.io/
